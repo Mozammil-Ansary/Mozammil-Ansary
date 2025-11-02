@@ -1,16 +1,19 @@
-## Hi there 👋
+🧑‍💻 Hi, I'm MD Mozammil Ansary!
 
-<!--
-**Mozammil-Ansary/Mozammil-Ansary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Certification in Applied AI & Machine Learning (IIT Guwahati)
+💡 Aspiring AI and Machine Learning Engineer passionate about building intelligent, data-driven solutions.
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently learning AI and Machine Learning
+
+🧠 Strong in Python, NumPy, Pandas, SeaBorn, MatPlotLib, Plotly, ScikitLearn, Data Wrangling, Feature Engineering, Supervised and Unsupervised Learning
+
+📚 Exploring Explainable AI & Model Optimization
+
+🚀 Interested in AI applications and Machine Learning
+
+🌐 Connect With Me
+
+LinkedIn - www.linkedin.com/in/md-mozammil-ansary
+Email- mdmozammil13@gmail.com
