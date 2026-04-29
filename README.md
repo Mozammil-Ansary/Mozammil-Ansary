@@ -18,13 +18,6 @@
 - ML: Scikit-learn, Model Evaluation
 - Tools: Jupyter Notebook, VS Code
 
-📂 Projects
-1. **Personal Expense Tracker**
-- CLI-based Python application
-- Tracks expenses & budget
-- Uses CSV for data storage
-- 👉 Check it here:
-https://github.com/Mozammil-Ansary/personal-expense-tracker
 
 📚 Exploring Explainable AI & Model Optimization
 🚀 Interested in AI applications and Machine Learning
