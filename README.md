@@ -1,11 +1,13 @@
 🧑‍💻 Hi, I'm MD Mozammil Ansary!
 
 🎓 B.Tech in Instrumentation & Control Engineering | 
+
 🤖 Machine Learning Engineer | Python | Data Science | Predictive Modeling
+
 📍 India
 
 🎓 Certification in **Applied AI & Machine Learning (IIT Guwahati)** | 
-💡 Machine Learning Engineer | Python | Data Science | Building Predictive Models
+
 
 🌟 **About Me**
 - Passionate about Machine Learning & Data Science
