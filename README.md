@@ -1,26 +1,60 @@
 🧑‍💻 Hi, I'm MD Mozammil Ansary!
 
 🎓 B.Tech in Instrumentation & Control Engineering | 
-🤖 Aspiring Machine Learning Engineer | 
+🤖 Machine Learning Engineer | Python | Data Science | Predictive Modeling
 📍 India
 
 🎓 Certification in **Applied AI & Machine Learning (IIT Guwahati)** | 
-💡 Aspiring AI and Machine Learning Engineer, passionate about building intelligent, data-driven solutions.
+💡 Machine Learning Engineer | Python | Data Science | Building Predictive Models
 
 🌟 **About Me**
 - Passionate about Machine Learning & Data Science
-- Currently learning AI and Machine Learning
-- Strong in Python, NumPy, Pandas, SeaBorn, MatPlotLib, Plotly, ScikitLearn, Data Wrangling, Feature Engineering, Supervised and Unsupervised Learning.
+- Continuously improving skills in Machine Learning and real-world problem solving
+- Skilled in Python, data analysis, and machine learning using Pandas, NumPy, Scikit-learn, and visualization tools.
 
-🛠️ **Skills**
-- Programming: Python
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn
-- ML: Scikit-learn, Model Evaluation
-- Tools: Jupyter Notebook, VS Code
+## 🛠 Skills
+
+- **Programming:** Python  
+
+- **Machine Learning:**  
+  Supervised Learning (Classification, Regression),  
+  Model Evaluation (Accuracy, Precision, Recall, ROC-AUC),  
+  Feature Engineering, Data Preprocessing, Ensemble Learning 
+
+- **Data Analysis & EDA:**  
+  Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning  
+
+- **Libraries & Tools:**  
+  Scikit-learn, Matplotlib, Seaborn  
+
+- **Concepts:**  
+  Train-Test Split, Cross Validation (Basic), Bias-Variance, Overfitting & Underfitting  
+
+- **Tools:**  
+  Jupyter Notebook, VS Code, GitHub   
+
+## 🚀 Projects
+
+🔹 Sales Forecasting (ML + Deep Learning)
+[🔗 View Project](your-link-here)
+- Built end-to-end forecasting system using Machine Learning and Deep Learning models  
+- Achieved strong performance with optimized regression models  
+
+🔹 Home Loan Default Prediction (Deep Learning)
+[🔗 View Project](your-link-here)
+- Developed neural network model for risk prediction  
+- Handled imbalanced data using class weights  
+
+🔹 Employee Turnover Prediction (Machine Learning)
+[🔗 View Project](https://github.com/your-username/employee-turnover-prediction.git)
+- Built classification model to predict employee attrition  
+- Performed EDA and feature engineering  
 
 
-📚 Exploring Explainable AI & Model Optimization
-🚀 Interested in AI applications and Machine Learning
+## 📊 Currently Working On
+- Improving Deep Learning skills  
+- Learning Model Optimization & Explainable AI  
+- Building real-world ML applications  
 
 🌐 Connect With Me
 
