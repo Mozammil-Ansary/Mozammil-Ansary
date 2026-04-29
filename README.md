@@ -35,7 +35,7 @@
 
 ## 🚀 Projects
 
-🔹 Sales Forecasting (ML + Deep Learning)
+🔹 Sales Forecasting (ML + Deep Learning | Capstone)
 [🔗 View Project](your-link-here)
 - Built end-to-end forecasting system using Machine Learning and Deep Learning models  
 - Achieved strong performance with optimized regression models  
@@ -46,9 +46,15 @@
 - Handled imbalanced data using class weights  
 
 🔹 Employee Turnover Prediction (Machine Learning)
-[🔗 View Project](https://github.com/your-username/employee-turnover-prediction.git)
+[🔗 View Project](https://github.com/Mozammil-Ansary/Employee_Turnover_Prediction_ML_Project)
 - Built classification model to predict employee attrition  
-- Performed EDA and feature engineering  
+- Performed EDA and feature engineering
+
+🔹 Sales Analysis (Data Science | EDA)
+[🔗 View Project](https://github.com/Mozammil-Ansary/Sales_Analysis)
+- Conducted in-depth exploratory data analysis on sales data to uncover trends and patterns  
+- Analyzed sales performance across time, products, and regions  
+- Built visualizations using Matplotlib and Seaborn for data storytelling
 
 
 ## 📊 Currently Working On
