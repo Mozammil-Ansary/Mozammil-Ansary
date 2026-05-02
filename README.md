@@ -38,7 +38,7 @@
 ## 🚀 Projects
 
 🔹 Sales Forecasting (ML + Deep Learning | Capstone)
-[🔗 View Project](your-link-here)
+[🔗 View Project](https://github.com/Mozammil-Ansary/Sales-Forecasting-using-Machine-Learning-Deep-Learning/tree/main)
 - Built end-to-end forecasting system using Machine Learning and Deep Learning models  
 - Achieved strong performance with optimized regression models  
 
