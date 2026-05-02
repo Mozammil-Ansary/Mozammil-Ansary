@@ -43,7 +43,7 @@
 - Achieved strong performance with optimized regression models  
 
 🔹 Home Loan Default Prediction (Deep Learning)
-[🔗 View Project]([your-link-here](https://github.com/Mozammil-Ansary/Home_Loan_Default_Prediction_DL))
+[🔗 View Project](https://github.com/Mozammil-Ansary/Home_Loan_Default_Prediction_DL)
 - Developed neural network model for risk prediction  
 - Handled imbalanced data using class weights  
 
