@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Instrumentation & Control Engineering | 
 
-🤖 Machine Learning Engineer | Python | Data Science | Predictive Modeling
+🤖 Machine Learning Engineer | Data Analytics | Python | SQL | Advance Excel | Data Science | Predictive Modeling
 
 📍 India
 
@@ -16,7 +16,7 @@
 
 ## 🛠 Skills
 
-- **Programming:** Python  
+- **Programming:** Python, MySQL 
 
 - **Machine Learning:**  
   Supervised Learning (Classification, Regression),  
@@ -24,13 +24,13 @@
   Feature Engineering, Data Preprocessing, Ensemble Learning 
 
 - **Data Analysis & EDA:**  
-  Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning  
+  Advance Excel, MySQL, Python, Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning  
 
 - **Libraries & Tools:**  
-  Scikit-learn, Matplotlib, Seaborn  
+  Scikit-learn, Matplotlib, Seaborn, Pandas  
 
 - **Concepts:**  
-  Train-Test Split, Cross Validation (Basic), Bias-Variance, Overfitting & Underfitting  
+  Train-Test Split, Cross Validation (Basic), Bias-Variance, Overfitting & Underfitting, Model evaluation Metrics 
 
 - **Tools:**  
   Jupyter Notebook, VS Code, GitHub   
@@ -60,9 +60,11 @@
 
 
 ## 📊 Currently Working On
+- Data analytics skills
 - Improving Deep Learning skills  
 - Learning Model Optimization & Explainable AI  
-- Building real-world ML applications  
+- Building real-world ML applications
+- Model Deployment 
 
 
 🌐 Connect With Me
